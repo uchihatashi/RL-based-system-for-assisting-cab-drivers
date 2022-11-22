@@ -57,13 +57,6 @@ Showing one of these convergence plots will suffice.
 
 For all the plumbing code, you can refer to the code used in the Inventory Management demo.
 
-## **Submission**
-
-You need to submit **one zip file** containing the following three files for evaluation:
-
-- the environment file: 'Env.py'
-- the agent's learning file: 'DQN\_Agent\_Arch1.ipynb' **OR**'DQN\_Agent\_Arch2.ipynb'
-- The final DQN model as a pickle file
 
 ## **Additional Content - Soft Skills:**
 
